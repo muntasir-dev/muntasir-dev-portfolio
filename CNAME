@@ -1,1 +1,7 @@
-muntasir.thedev.id
+Type: CNAME
+
+Name: muntasir
+
+Value: cname.vercel-dns.com
+
+Proxy: Disabled (DNS Only)
